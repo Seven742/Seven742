@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="155" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
+<img data-importer="image" align="right" height="140" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
 
 ###
 
@@ -63,10 +63,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Seven742/Seven742/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
