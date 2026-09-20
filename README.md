@@ -2,11 +2,11 @@
 
 ###
 
-<img data-importer="image" align="right" height="125" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
+<img data-importer="image" align="right" height="110" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
 
 ###
 
-<p data-importer="text" align="left">I'm a Year 3 Information Technology student passionate about building modern, useful.<br><br>I'm currently focused on becoming a Full-Stack Developer, starting with strong frontend skills and gradually building my backend and database knowledge.</p>
+<p data-importer="text" align="left">I'm a Year 3 Information Technology student passionate about building modern, useful.<br>I'm currently focused on becoming a Full-Stack Developer, starting with strong frontend skills and gradually building my backend and database knowledge.</p>
 
 ###
 
