@@ -14,7 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Year 3 Information Technology Student<br>💻 Currently learning Full-Stack Development<br>⚛️ Interested in React.js & Next.js<br>🖥️ Learning backend development with Express.js<br>🗄️ Working with MySQL & MongoDB</p>
+<p data-importer="text" align="left">🎓 Year 4 Information Technology Student<br>💻 Currently learning Full-Stack Development<br>⚛️ Interested in React.js & Next.js<br>🖥️ Learning backend development with Express.js<br>🗄️ Working with MySQL & MongoDB</p>
 
 ###
 
